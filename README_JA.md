@@ -3,7 +3,7 @@
 # Nagram-reborn based on Nullgram
 
 ## Nullgramって何ですか
-[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=@NullgramClient&color=0088cc)](https://t.me/NullgramClient)  [![CI build](https://github.com/qwq233/Nullgram/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/qwq233/Nullgram/actions/workflows/ci.yml/)  [![Crowdin](https://badges.crowdin.net/nullgram/localized.svg)](https://crowdin.com/project/nullgram)
+[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=@NullgramClient&color=0088cc)](https://t.me/NullgramClient)  [![Build CI](https://github.com/PreviousAlone/Nnngram/actions/workflows/ci.yml/badge.svg)](https://github.com/PreviousAlone/Nnngram/actions/workflows/ci.yml)  [![Crowdin](https://badges.crowdin.net/nullgram/localized.svg)](https://crowdin.com/project/nullgram)
 
 [English](README.md)  [中文](README_CN.md)
 
